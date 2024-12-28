@@ -1,2 +1,2 @@
-# Programs_Done
-Programs that I have been working on for enhancing coding skills
+# Chat Bot
+Code to create a simple reddit chatbot which comments Skill issue whenever a user types skill issue in the comments of a reddit post for a given subreddit
